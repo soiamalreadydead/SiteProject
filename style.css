@@ -1,0 +1,167 @@
+
+.header{
+	height:100vh;
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/791991374973253058/E3360BCEB1F1EC15FAC2B598B0E3169CF0AB0674/");
+	background-size: cover;
+	background-position: center;
+}
+
+.c1{
+	margin: auto;
+	padding: 2em;
+	margin-top: 15vh;
+}
+
+.c1 h2{
+	text-align: center;
+	color: white ;
+	width: 70%;
+	margin:auto;
+}
+
+.c1 p{
+	justify-content: space-between; 
+	margin-top:30px;
+	color:white;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+.name{
+	justify-content: center;
+}
+
+.name h2 {
+}
+
+.c1 button{
+	margin-top: 10px;
+	border:1px  solid #FFC42B;
+	background:#FFC42B;
+	color:white;
+}
+
+.grey{
+	background-color: #F2ECEC;
+}
+
+.container-fluid{
+	padding: 60px 0;
+}
+
+.content2 h3{
+	margin: auto;
+	margin-bottom: 60px;
+	text-align: center;
+	width: 80%;
+}
+
+.card{
+	margin: 0 25px 0 -10px;	
+}
+
+.content2 .card-title{
+	margin: 20px auto;
+}
+
+.col-lg-4{
+	padding: 0;!important
+}
+
+.card-footer{
+	border: none;
+	background-color:#FFC42B; 
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+.card-footer:hover{
+	background-color:#6c757d; 
+	text-decoration: none;
+	color: white;
+}
+
+@media (max-width: 991.98px){
+		.card{
+		margin: 20px auto;
+	}
+
+}
+
+.main3{
+	height:80vh;
+	background-image: url("https://image.freepik.com/free-photo/business-deal-handshake_63253-6114.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.main3 .btn{
+	margin-top: 4vh;
+	padding: 10px 30px;
+	color: white;
+	background-color: #FFC42B;
+	font-size: 20px;
+}
+
+.main3 h3{
+	margin: auto;
+	margin-top:10vh;
+	width: 60%;
+	text-align: center;
+	color: white;
+}
+
+.yellow_ph{
+	background-color:#FFC42B;
+}
+
+.content3{
+	margin-top: 4vh;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+
+.mt-8{
+	margin-top: 18vh;
+	margin-bottom: 10vh
+}
+
+.main3 .card{
+	margin:0 0 30px 0;
+	background-color:  #F2ECEC;
+}
+
+.main-title{
+	font-size: 90px;
+	color:  #FFC42B;
+}
+
+
+.yellow h3{
+	padding: 10px;
+	margin:0 auto;
+}
+
+.navbar{
+	padding-top: 60px;
+	background-color: none;
+	font-size:25px;
+}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; font-size: 25px;  cursor: pointer;}
+.nav-link{ margin-right: 1em !important;}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+.navbar-toggler{background:#fff !important;}
+
+.nav-link:hover{
+	background-color:#FFC42B;
+	border-radius: 10px;
+	color:white;
+
+}
